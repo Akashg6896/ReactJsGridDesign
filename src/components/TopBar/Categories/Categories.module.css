@@ -1,0 +1,78 @@
+* {
+  background-color: #ffff;
+}
+#Categories {
+  padding-left: 20px;
+  /* line-height: 0.8px; */
+  font-size: 16px;
+  font-weight: 400;
+  /* font-family: Raleway, sans-serif; */
+  letter-spacing: 0.9px;
+  margin-right: 230px;
+  cursor: pointer;
+  background-color: inherit;
+}
+.categoriesContainer {
+  display: flex;
+  background-color: inherit;
+}
+#desc {
+  /* margin-right: 30px; */
+  min-width: 23em;
+  opacity: 0.6;
+  /* width: 10px; */
+  text-align: left;
+  font-family: Raleway, sans-serif;
+  /* color: #bdbdbd; */
+  font-size: 16px;
+  font-weight: 400;
+  /* height: 80px; */
+  width: 0px;
+  margin-right: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.718);
+  background-color: inherit;
+}
+.categoriesSideMenu {
+  display: flex;
+  /* width: 600px; */
+  flex-wrap: nowrap;
+  align-content: space-between;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: inherit;
+}
+
+#DropdownIcon {
+  padding-top: 0;
+  padding-left: 0px;
+  border-style: none;
+  margin-top: -4px;
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  border: none;
+  border: #fff;
+  background-color: inherit;
+}
+.mainWebsiteButton {
+  margin-left: 30px;
+  color: #ffff;
+  background-image: linear-gradient(269deg, #0048ff, #0096ff),
+    linear-gradient(#000, #000);
+  font-family: Raleway, sans-serif;
+  font-weight: 800px;
+  font-size: 14px;
+  font-weight: 600;
+  width: 200px;
+  text-transform: capitalize;
+  /* padding: 5px 20px; */
+  padding: 0px;
+  height: 50px;
+  width: 190px;
+  /* margin: 0; */
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+  background-color: inherit;
+}

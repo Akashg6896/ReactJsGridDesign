@@ -1,0 +1,15 @@
+* {
+  background-color: #ffff;
+}
+.topBar {
+  display: flex;
+  /* flex-direction: row; */
+  /* border: 2px solid black; */
+  padding-left: 85px;
+  padding-top: 16px;
+  /* box-shadow: 0px -1px 2px 5px black; */
+  box-shadow: inset -1px -4px 6px -7px black;
+  padding-bottom: 10px;
+  background-color: #ffff;
+  padding-right: 30px;
+}

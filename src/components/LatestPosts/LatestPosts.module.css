@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: left;
+  padding-left: 240px;
+  padding-right: 240px;
+  background-color: inherit;
+}
