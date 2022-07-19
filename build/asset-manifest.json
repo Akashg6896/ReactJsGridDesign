@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactJsGridDesign/static/css/main.06e1f26f.css",
-    "main.js": "/ReactJsGridDesign/static/js/main.a2686493.js",
-    "static/js/787.efb8e84c.chunk.js": "/ReactJsGridDesign/static/js/787.efb8e84c.chunk.js",
-    "index.html": "/ReactJsGridDesign/index.html",
-    "main.06e1f26f.css.map": "/ReactJsGridDesign/static/css/main.06e1f26f.css.map",
-    "main.a2686493.js.map": "/ReactJsGridDesign/static/js/main.a2686493.js.map",
-    "787.efb8e84c.chunk.js.map": "/ReactJsGridDesign/static/js/787.efb8e84c.chunk.js.map"
+    "main.css": "/ReactJsGridDesign/page/static/css/main.06e1f26f.css",
+    "main.js": "/ReactJsGridDesign/page/static/js/main.788e1f43.js",
+    "static/js/787.efb8e84c.chunk.js": "/ReactJsGridDesign/page/static/js/787.efb8e84c.chunk.js",
+    "index.html": "/ReactJsGridDesign/page/index.html",
+    "main.06e1f26f.css.map": "/ReactJsGridDesign/page/static/css/main.06e1f26f.css.map",
+    "main.788e1f43.js.map": "/ReactJsGridDesign/page/static/js/main.788e1f43.js.map",
+    "787.efb8e84c.chunk.js.map": "/ReactJsGridDesign/page/static/js/787.efb8e84c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06e1f26f.css",
-    "static/js/main.a2686493.js"
+    "static/js/main.788e1f43.js"
   ]
 }
